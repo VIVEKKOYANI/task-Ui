@@ -1,0 +1,21 @@
+p{
+    color: royalblue;
+}
+
+.productdetail-text {
+    color: gray;
+}
+
+h4{
+    color: mediumspringgreen;
+}
+
+.productdetail-btn {
+    background-color: mediumspringgreen;
+    border: mediumspringgreen;
+    border-radius: 12px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    color: white;
+}

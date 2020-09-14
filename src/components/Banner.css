@@ -1,0 +1,19 @@
+.banner-btn {
+    background-color: mediumspringgreen;
+    border-radius: 12px;
+    border: mediumspringgreen;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+    padding: 10px;
+}
+
+banner-text {
+    color: royalblue;
+}
+
+banner-rating{
+    color: gray;
+    font-size: small;
+}

@@ -1,0 +1,12 @@
+.product{
+    background-color:skyblue;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 70px;
+}
+
+img{
+    border: 8px solid white;
+}

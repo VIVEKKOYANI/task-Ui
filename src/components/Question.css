@@ -1,0 +1,23 @@
+.outside{
+    background-color: navy;
+    padding: 40px;
+}
+
+.inside{
+    padding: 20px;
+    background-color: white;
+}
+
+.answer{
+    color: grey;
+    font-size: small;
+}
+
+.Question{
+    color: lightseagreen;
+    font-size: small;
+}
+
+.question-icon{
+    color: orangered;
+}

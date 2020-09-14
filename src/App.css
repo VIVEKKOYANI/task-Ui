@@ -1,0 +1,18 @@
+.header{
+  display: flex;
+  position: relative;
+  left: 1200px;
+  border-radius: 12px;
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+  background-color: mediumspringgreen;
+  border: mediumspringgreen;
+  color: rgb(99, 95, 95);
+}
+
+.right{
+  position: absolute;
+  display: flex;
+  right: 50px;
+}
